@@ -9,6 +9,7 @@ data = [
     ["Martin Grand J12-16GTE", 2015, 2199],
     ["Taylor PS10ce", 2014, 9318],
     ["Gretsch 6120 Chet Atkins", 1956, 10999.99],
+    ["Mambo J7", 1999, 16475.25],
 ]
 
 class_guitars = []
